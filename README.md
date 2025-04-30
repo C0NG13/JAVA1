@@ -3,7 +3,11 @@ contains code for: AWT menu with clickable text and basic AWT animations with mo
 Directions
 
 go to https://github.com/C0NG13/JAVA1/blob/main/AnimationProject.zip
-click the ... button \n
+
+click the ... button 
+
 download and unzip the AnimationProject.zip file
+
 then you should be able to run this unzipped file in your compiler
+
 A read me file is included inside of this project.
